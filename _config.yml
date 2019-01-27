@@ -7,7 +7,7 @@ theme_settings:
   # Meta
   title: XIN QIN
   avatar: assets/img/Xin.jpg
-  favicon: assets/favicon.ico
+  favicon: assets/sample_feature_img_2.png
   gravatar: # Email MD5 hash
   description: "A blog for my thoughts on machine learning and data science" # used by search engines
 
@@ -22,24 +22,24 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "qxpassion@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: "xinqin-ds"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin: "https://www.linkedin.com/in/xin-qin-7500a077/" 
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: 
   wordpress:
   youtube:
 
