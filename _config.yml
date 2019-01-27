@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://xinqin-ds.github.io'
+url: "https://xinqin-ds.github.io"
 baseurl: ''
 title: 'Xin Qin'
 description: 'This is my blog for data science, statistical modeling and machine learning'
