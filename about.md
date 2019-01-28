@@ -6,30 +6,30 @@ feature-img: "assets/img/About_feature_img.png"
 ---
 
 # Education
-** Northwestern University** Evanston, IL 2013-2018
+__ Northwestern University__ Evanston, IL 2013-2018
 - Ph.D. in Theoretical and Applied Mechanics
 
-** Xi'an Jiaotong Univeristy** Xi'an, China 2011-2013
+__ Xi'an Jiaotong Univeristy__ Xi'an, China 2011-2013
 - MS in Solid Mechanics
 
-** Xi'an Jiaotong Univeristy** Xi'an, China 2007-2011
+__ Xi'an Jiaotong Univeristy__ Xi'an, China 2007-2011
 - BEng in Engineering Mechanics & BA (Minor) in English Literature
 
-** DataCamp ** 2018
+__ DataCamp __ 2018
 
 - Data Scientist with Python Career Track
 [(Statement of Accomplishment)](https://www.datacamp.com/statement-of-accomplishment/track/efef6075aa8bfdab691ae2a29e212e92f8ca5641)
 
 # Technical Skills
-** Machine Learning**: Regression, Classification, Clustering, Decision Trees, PCA, Random Forest, Gradient Boosting, Neural Networks, Natural Language Processing,Time Series Forecasting, Feature Engineering, A/B Testing
+__ Machine Learning__: Regression, Classification, Clustering, Decision Trees, PCA, Random Forest, Gradient Boosting, Neural Networks, Natural Language Processing,Time Series Forecasting, Feature Engineering, A/B Testing
 
-** Programming**: Python, R, SQL, PySpark, TensorFlow, MATLAB, SAS, Qlik, Shell, Git, AWS
+__ Programming__: Python, R, SQL, PySpark, TensorFlow, MATLAB, SAS, Qlik, Shell, Git, AWS
 
-** Computational Simulations**: First Principles Calculations, Monte Carlo Simulations, Molecular Dynamic  Simulations, Finite Element Analysis
+__ Computational Simulations__: First Principles Calculations, Monte Carlo Simulations, Molecular Dynamic  Simulations, Finite Element Analysis
 
 # Working Experience
 
-** Pegasus Knowledge Solutions Inc.** Schaumburg, IL
+__ Pegasus Knowledge Solutions Inc.__ Schaumburg, IL
 
 _Data Scientist_,  2018/10-Present
 
@@ -39,14 +39,14 @@ _Data Scientist_,  2018/10-Present
 
 # Data Science Projects
 
-** Products Categorization and Brand Value Assessment** 2018/08
+__ Products Categorization and Brand Value Assessment__ 2018/08
 
 _Categorize products and social sentiment analysis for brandnames with Natural Language Processing to arrive better sales_
 
 -	Collected product attributes data through web scraping; built multiclass Support Vector Machine using NLP and performed parameter optimization to classify 3,600 items into 30 categories with 95% accuracy
 -	Conducted sentiment analysis on top 20 brands with tweets through Twitter API; determined methodology to assess brand values based on averaged social opinions; proposed strategies to improve brand influence
 
-** Avito Demand Prediction Challenge** 2018/05
+__ Avito Demand Prediction Challenge__ 2018/05
 
 _redict demand for an online classified advertisement [(Kaggle Challenge Link)](https://www.kaggle.com/c/avito-demand-prediction)_
 
@@ -55,7 +55,7 @@ _redict demand for an online classified advertisement [(Kaggle Challenge Link)](
 
 [Github Repository](https://github.com/LowPass-DataScience/avito-demand-prediction-chanllege)
 
-** Home Credit Default Risk	** 2018/03
+__ Home Credit Default Risk	__ 2018/03
 
 _Predict how capable each applicant is of repaying a loan [(Kaggle Challenge Link)](https://www.kaggle.com/c/home-credit-default-risk)_
 
@@ -66,7 +66,7 @@ _Predict how capable each applicant is of repaying a loan [(Kaggle Challenge Lin
 
 # Research Experience
 
-** Northwestern University** Evanston, IL
+__ Northwestern University__ Evanston, IL
 
 _Research Assistant_, 2013-2018  
 
@@ -89,7 +89,7 @@ _Characterize mechanical properties and leverage industrial applications of cell
 -	Analyzed data generated from research projects with MATLAB/Python with statistical mechanics to interpret and understand simulation results
 -	Supervised 4 undergraduate/graduate students on 3 research projects; advised on structure design, data analysis, and presentations
 
-** Xi’an Jiaotong University** Xi'an, China
+__ Xi’an Jiaotong University__ Xi'an, China
 
 _Research Assistant_, 2010-2013
 
@@ -101,7 +101,7 @@ _Research Assistant_, 2010-2013
 
 # Leadership Experience
 
-** Northwestern University** Evanston, IL
+__ Northwestern University__ Evanston, IL
 
 _Teaching Assistant_, 2016/03-2016/06
 
@@ -117,25 +117,25 @@ _Mentor at Summer Research Opportunity Program_, 2015/07-2015/08
 # Publications
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=G-IIL84AAAAJ&view_op=list_works&sortby=pubdate)
 
--	**X. Qin**, B. Marchi, Z. Meng, S. Keten, “Impact Resistance of Nanocellulose Films with Bioinspired Bouligand Microstructures”, Nanoscale Advances, 2019
+-	__X. Qin__, B. Marchi, Z. Meng, S. Keten, “Impact Resistance of Nanocellulose Films with Bioinspired Bouligand Microstructures”, Nanoscale Advances, 2019
 
--	W. Xia\*, **X. Qin\***, S. Keten, “Achieving Enhanced Interfacial Adhesion and Dispersion in Cellulose Nanocomposites via Amorphous Interfaces”, Macromolecules, 51.24 (2018): 10304-10311
+-	W. Xia\*, __X. Qin\*__, S. Keten, “Achieving Enhanced Interfacial Adhesion and Dispersion in Cellulose Nanocomposites via Amorphous Interfaces”, Macromolecules, 51.24 (2018): 10304-10311
 
--	B. Natarajan, A. Krishnamurthy, **X. Qin**, C. Emiroglu, A. Forster, E. Foster, C. Weder, D. Fox, S. Keten, J. Obrzut, J. Gilman, “Binary Cellulose Nanocrystal Blends for Bioinspired Damage Tolerant Photonic Films”, Advanced Functional Materials, 2018, 1800032
+-	B. Natarajan, A. Krishnamurthy, __X. Qin__, C. Emiroglu, A. Forster, E. Foster, C. Weder, D. Fox, S. Keten, J. Obrzut, J. Gilman, “Binary Cellulose Nanocrystal Blends for Bioinspired Damage Tolerant Photonic Films”, Advanced Functional Materials, 2018, 1800032
 
--	Y. Zhang, Z. Meng, **X. Qin**, S. Keten, “Ballistic impact response of lipid membranes”, Nanoscale, 2018, pp. 4761-4770
+-	Y. Zhang, Z. Meng, __X. Qin__, S. Keten, “Ballistic impact response of lipid membranes”, Nanoscale, 2018, pp. 4761-4770
 
--	Z. Meng, J. Han, **X. Qin**, Y. Zhang, O. Balogun, S. Keten, “Spalling-like Failure by Cylindrical Projectiles Deteriorates the Ballistic Performance of Multi-layer Graphene Plates”, Carbon, 2018, pp. 611-619
+-	Z. Meng, J. Han, __X. Qin__, Y. Zhang, O. Balogun, S. Keten, “Spalling-like Failure by Cylindrical Projectiles Deteriorates the Ballistic Performance of Multi-layer Graphene Plates”, Carbon, 2018, pp. 611-619
 
--	Z. Meng, A. Singh, **X. Qin**, S. Keten, “Reduced Ballistic Limit Velocity of Graphene Membranes due to Cone Wave Reflection”, Extreme Mechanics Letters, 2017, 15, pp. 70-77.
+-	Z. Meng, A. Singh, __X. Qin__, S. Keten, “Reduced Ballistic Limit Velocity of Graphene Membranes due to Cone Wave Reflection”, Extreme Mechanics Letters, 2017, 15, pp. 70-77.
 
--	**X. Qin**, S. Feng, Z. Meng, S. Keten, "Optimizing the Mechanical Properties of Cellulose Nanopaper Through Surface Energy and Critical Length Scale Considerations, Cellulose, 2017, pp. 1-11.
+-	__X. Qin__, S. Feng, Z. Meng, S. Keten, "Optimizing the Mechanical Properties of Cellulose Nanopaper Through Surface Energy and Critical Length Scale Considerations, Cellulose, 2017, pp. 1-11.
 
--	**X. Qin**, W. Xia, B. Sinko, S. Keten, "Tuning Glass-Transition in Polymer Nanocomposites with Functionalized Cellulose Nanocrystals through Nanoconfinement", 2015, Nano Letters, 15(10), pp. 6738–6744.
+-	__X. Qin__, W. Xia, B. Sinko, S. Keten, "Tuning Glass-Transition in Polymer Nanocomposites with Functionalized Cellulose Nanocrystals through Nanoconfinement", 2015, Nano Letters, 15(10), pp. 6738–6744.
 
--	R. Sinko, **X. Qin**, S. Keten, “Interfacial Mechanics of Cellulose Nanocrystals”, invited review for MRS Bulletin, 2015, 40(4), pp. 340-348, invited review
+-	R. Sinko, __X. Qin__, S. Keten, “Interfacial Mechanics of Cellulose Nanocrystals”, invited review for MRS Bulletin, 2015, 40(4), pp. 340-348, invited review
 
--	J. Long, **X. Qin**, G. Wang, “Influence of Surface Energy on the Elastic Compression of Nanosphere” Journal of Applied Physics, 2015, 117(5), pp. 054310.
+-	J. Long, __X. Qin__, G. Wang, “Influence of Surface Energy on the Elastic Compression of Nanosphere” Journal of Applied Physics, 2015, 117(5), pp. 054310.
 
 # Presentations
 
@@ -143,7 +143,7 @@ _Mentor at Summer Research Opportunity Program_, 2015/07-2015/08
 
 -	X. Qin, Z. Meng, S. Keten, “Optimizing Cellulose Nanopaper Mechanical Properties with Bio-inspired Structures Through Multi-scale Simulation Investigations”, Proceedings of the Society of Engineering Science 54th Annual Technical Meeting, July 25-28, 2017, Boston: Northeastern University
 
--	X. Qin and S. Keten, “Mechanical Properties of Bio-inspired Cellulose Nanopaper”, **1st Place for Poster Presentation**, 3rd Annual Midwest Workshop on Mechanics of Materials and Structures, August 11, 2017, West Lafayette: Purdue University
+-	X. Qin and S. Keten, “Mechanical Properties of Bio-inspired Cellulose Nanopaper”, __1st Place for Poster Presentation__, 3rd Annual Midwest Workshop on Mechanics of Materials and Structures, August 11, 2017, West Lafayette: Purdue University
 
 -	X. Qin and S. Keten, “Investigation into Size Dependence of Cellulose Nanopaper Mechancial Properties with Multiscale Modeling Approach”, 2nd Annual Midwest Workshop on Mechanics of Materials and Structures, August 15, 2016, Evanston: Northwestern University
 
@@ -151,10 +151,10 @@ _Mentor at Summer Research Opportunity Program_, 2015/07-2015/08
 
 # Additional Information
 
-** Languages**
+__ Languages__
 
 Chinese (Native), English
 
-** Interests**
+__ Interests__
 
 Basketball, Swimming, SKiing, Hiking, Guitar
