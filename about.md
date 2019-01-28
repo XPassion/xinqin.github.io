@@ -70,7 +70,7 @@ _Predict how capable each applicant is of repaying a loan [(Kaggle Challenge Lin
 
 _Research Assistant_, 2013-2018  
 
-###### _All-Cellulose Nanomaterials Property Characterization:_
+##### _All-Cellulose Nanomaterials Property Characterization:_
 
 _Investigate cellulose nanomaterials performance with nature-inspired structures via statistical mechanics and multiscale molecular dynamics simulation tools_
 
@@ -80,7 +80,7 @@ _Investigate cellulose nanomaterials performance with nature-inspired structures
 -	Interpreted the mechanical property of tunicate/wood cellulose binary nanocomposites and validated simulation results in collaboration with 4 experimentalists at NIST
 -	Investigated and authorized 2 proposals with 4 researchers, including a 3-year $50,000 grant
 
-###### _Cellulose Nanocrystals Reinforced Polymer Nanocomposites: Simulaitons and Experiments:_
+##### _Cellulose Nanocrystals Reinforced Polymer Nanocomposites: Simulaitons and Experiments:_
 
 _Characterize mechanical properties and leverage industrial applications of cellulose-reinforced polymer nanocomposites through multiscale simulations_
 
