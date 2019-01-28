@@ -21,11 +21,17 @@ feature-img: "assets/img/img.png"
 [(Statement of Accomplishment)](https://www.datacamp.com/statement-of-accomplishment/track/efef6075aa8bfdab691ae2a29e212e92f8ca5641)
 
 # Technical Skills
-**Machine Learning**: Regression, Classification, Clustering, Decision Trees, PCA, Random Forest, Gradient Boosting, Neural Networks, Natural Language Processing,Time Series Forecasting, Feature Engineering, A/B Testing
+**Machine Learning**: 
 
-**Programming**: Python, R, SQL, PySpark, TensorFlow, MATLAB, SAS, Qlik, Shell, Git, AWS
+Regression, Classification, Clustering, Decision Trees, PCA, Random Forest, Gradient Boosting, Neural Networks, Natural Language Processing,Time Series Forecasting, Feature Engineering, A/B Testing
 
-**Computational Simulations**: First Principles Calculations, Monte Carlo Simulations, Molecular Dynamic  Simulations, Finite Element Analysis
+**Programming**: 
+
+Python, R, SQL, PySpark, TensorFlow, MATLAB, SAS, Qlik, Shell, Git, AWS
+
+**Computational Simulations**: 
+
+First Principles Calculations, Monte Carlo Simulations, Molecular Dynamic  Simulations, Finite Element Analysis
 
 # Working Experience
 
