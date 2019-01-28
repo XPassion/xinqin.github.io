@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/about_page_img_1"
+feature-img: "assets/img/about_page_img_1.png"
 ---
 
 # Education
