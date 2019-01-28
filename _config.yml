@@ -23,16 +23,13 @@ theme_settings:
   # Icons
   rss: false
   email_address: "qxpassion@gmail.com"
-  behance:
-  bitbucket:
-  dribbble:
   facebook:
   flickr:
   gitlab:
   github: "xinqin-ds"
   google_plus:
-  instagram: "https://www.instagram.com/cipassion/"
   linkedin: "https://www.linkedin.com/in/xin-qin-7500a077/" 
+  instagram: "cipassion"
   pinterest:
   reddit:
   soundcloud:
