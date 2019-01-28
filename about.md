@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/about_page_img_1.png"
+feature-img: "assets/img/img.png"
 ---
 
 # Education
@@ -117,7 +117,7 @@ _Mentor at Summer Research Opportunity Program_, 2015/07-2015/08
 # Publications
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=G-IIL84AAAAJ&view_op=list_works&sortby=pubdate)
 
--	**X. Qin__, B. Marchi, Z. Meng, S. Keten, “Impact Resistance of Nanocellulose Films with Bioinspired Bouligand Microstructures”, Nanoscale Advances, 2019
+-	**X. Qin**, B. Marchi, Z. Meng, S. Keten, “Impact Resistance of Nanocellulose Films with Bioinspired Bouligand Microstructures”, Nanoscale Advances, 2019
 
 -	W. Xia\*, __X. Qin\*__, S. Keten, “Achieving Enhanced Interfacial Adhesion and Dispersion in Cellulose Nanocomposites via Amorphous Interfaces”, Macromolecules, 51.24 (2018): 10304-10311
 
