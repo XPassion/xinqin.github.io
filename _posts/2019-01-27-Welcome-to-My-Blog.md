@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to My Blog
-tags: [data-science, machine-learning, statistics]
+tags: [data science, machine learning, statistics]
 ---
 
 Hi, I am Xin Qin. Welcome to my blog for data science!
