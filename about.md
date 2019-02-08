@@ -163,4 +163,4 @@ Chinese (Native), English
 
 **Interests**
 
-Basketball, Swimming, SKiing, Hiking, Guitar
+Basketball, Swimming, Skiing, Hiking, Guitar
